@@ -17,36 +17,36 @@ interface Project {
 
 // Placeholder projects - replace with your actual projects
 const projects: Project[] = [
-  {
-    title: "E-Commerce Platform",
-    description:
-      "A modern e-commerce platform built with Next.js and Stripe integration. Features include product catalog, shopping cart, and secure checkout.",
-    image: "/api/placeholder/600/400",
-    videoUrl: "https://example.com/video1.mp4",
-    githubUrl: "https://github.com",
-    liveUrl: "https://example.com",
-    technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Stripe"],
-  },
-  {
-    title: "Task Management App",
-    description:
-      "A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.",
-    image: "/api/placeholder/600/400",
-    videoUrl: "https://example.com/video2.mp4",
-    githubUrl: "https://github.com",
-    liveUrl: "https://example.com",
-    technologies: ["React", "Node.js", "MongoDB", "Socket.io"],
-  },
-  {
-    title: "Weather Dashboard",
-    description:
-      "A beautiful weather dashboard with location-based forecasts, interactive maps, and detailed weather analytics.",
-    image: "/api/placeholder/600/400",
-    videoUrl: "https://example.com/video3.mp4",
-    githubUrl: "https://github.com",
-    liveUrl: "https://example.com",
-    technologies: ["Vue.js", "Chart.js", "OpenWeather API"],
-  },
+  // {
+  //   title: "E-Commerce Platform",
+  //   description:
+  //     "A modern e-commerce platform built with Next.js and Stripe integration. Features include product catalog, shopping cart, and secure checkout.",
+  //   image: "/api/placeholder/600/400",
+  //   videoUrl: "https://example.com/video1.mp4",
+  //   githubUrl: "https://github.com",
+  //   liveUrl: "https://example.com",
+  //   technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Stripe"],
+  // },
+  // {
+  //   title: "Task Management App",
+  //   description:
+  //     "A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.",
+  //   image: "/api/placeholder/600/400",
+  //   videoUrl: "https://example.com/video2.mp4",
+  //   githubUrl: "https://github.com",
+  //   liveUrl: "https://example.com",
+  //   technologies: ["React", "Node.js", "MongoDB", "Socket.io"],
+  // },
+  // {
+  //   title: "Weather Dashboard",
+  //   description:
+  //     "A beautiful weather dashboard with location-based forecasts, interactive maps, and detailed weather analytics.",
+  //   image: "/api/placeholder/600/400",
+  //   videoUrl: "https://example.com/video3.mp4",
+  //   githubUrl: "https://github.com",
+  //   liveUrl: "https://example.com",
+  //   technologies: ["Vue.js", "Chart.js", "OpenWeather API"],
+  // },
   {
     title: "MineSweeper Game",
     description:
