@@ -14,10 +14,18 @@ interface Experience {
 
 // Placeholder data - replace with your actual experiences
 const experiences: Experience[] = [
+   {
+    title: "Software Developer Engineer III",
+    company: "Elsevier",
+    period: "Apr 2026 - Present",
+    description:
+      "Built responsive websites and collaborated with design teams to implement UI/UX designs.",
+    technologies: ["HTML", "CSS", "JavaScript", "jQuery"],
+  },
   {
     title: "Senior Frontend Developer",
     company: "Paktolus Solutions Pvt Ltd",
-    period: "Jan 2025 - Present",
+    period: "Jan 2025 - Apr 2026",
     description:
       "Leading frontend development initiatives and building scalable web applications.",
     technologies: ["React", "TypeScript", "Next.js", "Tailwind CSS"],

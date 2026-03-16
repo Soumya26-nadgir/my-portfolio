@@ -31,7 +31,7 @@ const skills: Skill[] = [
   { name: "Tailwind CSS", icon: SiTailwindcss, level: 90, color: "#06B6D4" },
   { name: "HTML5", icon: SiHtml5, level: 95, color: "#E34F26" },
   { name: "CSS3", icon: SiCss3, level: 93, color: "#1572B6" },
-  { name: "Node.js", icon: SiNodedotjs, level: 75, color: "#339933" },
+  // { name: "Node.js", icon: SiNodedotjs, level: 75, color: "#339933" },
   { name: "Git", icon: SiGit, level: 85, color: "#F05032" },
   { name: "Figma", icon: SiFigma, level: 80, color: "#F24E1E" },
 ];

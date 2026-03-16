@@ -11,32 +11,33 @@ interface JourneyStep {
   icon: React.ElementType;
 }
 
-// Placeholder data - replace with your actual journey
 const journeySteps: JourneyStep[] = [
   {
-    year: "2018",
-    title: "Started Learning",
+    year: "2020",
+    title: "The Fundamentals",
     description:
-      "Began my journey into web development with HTML, CSS, and JavaScript",
+      "Started by building static web pages, learning the core building blocks of the web and transforming UI designs into interactive code.",
     icon: FaCode,
   },
   {
-    year: "2019",
-    title: "First Project",
-    description: "Built my first full-stack application and deployed it live",
+    year: "2021",
+    title: "The Framework Era",
+    description:
+      "Transitioned into building robust SPAs. Mastered React, Redux, and SCSS while tackling complex state management at Paktolus.",
     icon: FaRocket,
   },
   {
-    year: "2020",
-    title: "Professional Start",
+    year: "2025",
+    title: "Mastering the Craft",
     description:
-      "Landed my first job as a Frontend Developer at a digital agency",
+      "Shifted focus towards modern full-stack tools. Embraced Next.js, TypeScript, and Tailwind CSS to build lightning-fast web apps.",
     icon: FaGraduationCap,
   },
   {
-    year: "2022",
-    title: "Career Growth",
-    description: "Promoted to Senior Developer, leading frontend initiatives",
+    year: "2026",
+    title: "Next-Level Engineering",
+    description:
+      "Currently engineering high-impact, responsive applications at Elsevier, continuously pushing the boundaries of modern web experiences.",
     icon: FaTrophy,
   },
 ];
